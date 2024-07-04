@@ -1,0 +1,14 @@
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\bin\Debug\net8.0\Guia-Lambda.exe
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\bin\Debug\net8.0\Guia-Lambda.deps.json
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\bin\Debug\net8.0\Guia-Lambda.runtimeconfig.json
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\bin\Debug\net8.0\Guia-Lambda.dll
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\bin\Debug\net8.0\Guia-Lambda.pdb
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.AssemblyInfoInputs.cache
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.AssemblyInfo.cs
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.dll
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\refint\Guia-Lambda.dll
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.pdb
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\Guia-Lambda.genruntimeconfig.cache
+C:\Users\ninoa\Desktop\Guia-Lambda\Guia-Lambda\obj\Debug\net8.0\ref\Guia-Lambda.dll

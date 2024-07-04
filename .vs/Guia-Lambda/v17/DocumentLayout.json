@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninoa\\Desktop\\Guia-Lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4988274E-DF98-4F19-92FA-8F2BDFC93043}|Guia-Lambda\\Guia-Lambda.csproj|c:\\users\\ninoa\\desktop\\guia-lambda\\guia-lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4988274E-DF98-4F19-92FA-8F2BDFC93043}|Guia-Lambda\\Guia-Lambda.csproj|solutionrelative:guia-lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4988274E-DF98-4F19-92FA-8F2BDFC93043}|Guia-Lambda\\Guia-Lambda.csproj|c:\\users\\ninoa\\desktop\\guia-lambda\\guia-lambda\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4988274E-DF98-4F19-92FA-8F2BDFC93043}|Guia-Lambda\\Guia-Lambda.csproj|solutionrelative:guia-lambda\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia-Lambda\\Guia-Lambda\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Guia-Lambda\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia-Lambda\\Guia-Lambda\\Estudiante.cs",
+              "RelativeToolTip": "Guia-Lambda\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:37:58.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia-Lambda\\Guia-Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Guia-Lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia-Lambda\\Guia-Lambda\\Program.cs",
+              "RelativeToolTip": "Guia-Lambda\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:34:07.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
